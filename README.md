@@ -94,6 +94,24 @@
 
 ---
 
+## 🗂️ Projetos
+
+| Projeto | O que é | Status |
+|---------|---------|--------|
+| 📥 [Kinweb3_Downloads](https://github.com/Forextoolssoftwares/Kinweb3_Downloads) | Baixa vídeo e áudio de redes sociais no celular | ✅ Disponível |
+| 🔧 [Marido de Aluguel](https://github.com/Forextoolssoftwares/Marido-de-Aluguel) | Marketplace de serviços residenciais | 🚧 Em atualização |
+| 📄 [App Atestados](https://github.com/Forextoolssoftwares/App-Atestados) | Envio e gestão de atestados médicos | 🚧 Em atualização |
+| 🤖 [Jarvis](https://github.com/Forextoolssoftwares/Jarvis) | Assistente pessoal por voz com IA | 🚧 Em atualização |
+| 🎮 [Linhagens](https://github.com/Forextoolssoftwares/Linhagens) | RPG de fusão jogável no navegador | 🚧 Em atualização |
+| 🍀 [Desdobramentos Lotofácil](https://github.com/Forextoolssoftwares/Desdobramentos-Lotofacil) | Gerador de fechamentos da Lotofácil | 🚧 Em atualização |
+| 💰 [Juros de Apostas](https://github.com/Forextoolssoftwares/Juros-de-Apostas) | Calculadora de banca (juros compostos) | 🚧 Em atualização |
+| 📚 [App de Estudos](https://github.com/Forextoolssoftwares/App-Estudos) | Estante de PDFs offline por matéria | 🚧 Em atualização |
+| 🧽 [LimpaDisco](https://github.com/Forextoolssoftwares/LimpaDisco) | Saneamento seguro de disco (SHA-256) | 🚧 Em atualização |
+
+> Novos projetos entram aqui conforme saem do forno. 🔥
+
+---
+
 ## 📌 Projeto em destaque
 
 ### 📥 [Kinweb3_Downloads](https://github.com/Forextoolssoftwares/Kinweb3_Downloads)

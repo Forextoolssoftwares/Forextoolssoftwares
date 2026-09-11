@@ -2,55 +2,127 @@
   <img src="assets/banner.png" alt="Kinweb3_Softwares" width="100%" />
 </p>
 
+<h3 align="center">💻 Transformamos ideias em software que funciona — do zero à publicação.</h3>
+<p align="center">Apps · Sistemas · Sites · Automações · Inteligência Artificial · Robôs de Trading</p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MQL5-2E77BC?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-disponível%20para%20projetos-2EE6A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/foco-do%20conceito%20à%20entrega-26D9AE?style=flat-square" />
+  <img src="https://img.shields.io/badge/onde-Brasil%20%F0%9F%87%A7%F0%9F%87%B7-3DDC84?style=flat-square" />
 </p>
 
 ---
 
-### 👋 Sobre
+## 🧰 Stack & Tecnologias
 
-Transformo ideias em produtos que funcionam. Do primeiro rascunho ao app publicado e atualizando sozinho — projeto, desenvolvo, testo e entrego. Trabalho em várias linguagens e plataformas, então a solução se adapta ao problema, não o contrário.
+<p align="center"><b>📱 Mobile</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+<p align="center"><b>⚙️ Back-end & APIs</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p align="center"><b>🌐 Web</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center"><b>📈 Trading & Mercado Financeiro</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MQL5-2E77BC?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaTrader%205-1B7A43?style=for-the-badge&logo=tradingview&logoColor=white" />
+</p>
+
+<p align="center"><b>🧠 IA & Automação</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automação-000000?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
+
+<p align="center"><b>🛠️ DevOps & Ferramentas</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VPS-5C6BC0?style=for-the-badge&logo=serverfault&logoColor=white" />
+</p>
 
 ---
 
-### 🚀 O que a gente pode construir
+## 🚀 O que a gente constrói
 
-| Área | O que entrego |
-|------|---------------|
-| 📱 **Apps mobile** | Android nativo (Kotlin) e multiplataforma (Flutter) — com atualização automática |
-| 🤖 **Robôs de trading** | Expert Advisors MQL5 para MetaTrader 5: Forex, B3, Deriv — com licenciamento |
-| 🧠 **Automações com IA** | integrações com modelos de linguagem para decisão, análise e geração de conteúdo |
-| ⚙️ **Back-ends & APIs** | Python / FastAPI, banco de dados e deploy em VPS |
-| 🌐 **Sites & PWAs** | web moderna, responsiva e instalável no celular |
-| 🛠️ **Ferramentas & bots** | apps desktop, automações, integrações e utilitários sob medida |
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-> **Precisa de algo que ainda não existe?** É só descrever a ideia — a gente projeta e coloca no ar.
+**📱 Apps mobile**
+Android nativo (Kotlin) e multiplataforma (Flutter). Publicados, com atualização automática embutida.
+
+**🤖 Robôs de trading**
+Expert Advisors MQL5 para MetaTrader 5 — Forex, B3 e Deriv, com gestão de risco e licenciamento.
+
+**🧠 Automações com IA**
+Integrações com modelos de linguagem para decisão, análise, atendimento e geração de conteúdo.
+
+  </td>
+  <td width="50%" valign="top">
+
+**⚙️ Back-ends & APIs**
+Python / FastAPI, banco de dados e deploy em VPS — escaláveis e prontos pra produção.
+
+**🌐 Sites & PWAs**
+Web moderna, responsiva e instalável no celular.
+
+**🛠️ Ferramentas & bots**
+Apps desktop, automações, integrações e utilitários sob medida.
+
+  </td>
+  </tr>
+</table>
+
+> **Se dá pra imaginar em código, a gente constrói.** Descreva a ideia — do protótipo à publicação.
 
 ---
 
-### 🧩 Como eu trabalho
+## 🧩 Como eu trabalho
 
-`Ideia` → `Protótipo` → `Desenvolvimento` → `Testes` → `Publicação` → `Atualizações contínuas`
-
----
-
-### 📌 Destaque
-
-**[Kinweb3_Downloads](https://github.com/Forextoolssoftwares/Kinweb3_Downloads)** — app Android que baixa vídeo e áudio de várias redes (YouTube, Instagram, TikTok e outros) direto no celular, com atualização automática embutida.
+<p align="center">
+  <code>💡 Ideia</code> ➜ <code>📐 Protótipo</code> ➜ <code>⌨️ Desenvolvimento</code> ➜ <code>🧪 Testes</code> ➜ <code>🚀 Publicação</code> ➜ <code>🔄 Atualizações contínuas</code>
+</p>
 
 ---
 
-### 📬 Vamos criar algo juntos?
+## 📌 Projeto em destaque
 
-**Marcos** — 📞 55 31 99380-3254
+### 📥 [Kinweb3_Downloads](https://github.com/Forextoolssoftwares/Kinweb3_Downloads)
+App Android que baixa **vídeo e áudio** de várias redes (YouTube, Instagram, TikTok, X e outros) **direto no celular**, com login do Instagram e **atualização automática** embutida.
 
-<sub>© Direitos reservados a <b>Kinweb3_Softwares</b></sub>
+<img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/atualização-automática-2EE6A6?style=flat-square" />
+<img src="https://img.shields.io/badge/status-em%20produção-26D9AE?style=flat-square" />
+
+---
+
+## 📬 Vamos criar algo juntos?
+
+<p align="center">
+  <b>Marcos</b> &nbsp;•&nbsp; 📞 55 31 99380-3254
+</p>
+
+<p align="center"><sub>© Direitos reservados a <b>Kinweb3_Softwares</b></sub></p>

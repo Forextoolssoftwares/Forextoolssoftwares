@@ -78,34 +78,9 @@
 
 ## 🚀 O que a gente constrói
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**📱 Apps mobile**
-Android nativo (Kotlin) e multiplataforma (Flutter). Publicados, com atualização automática embutida.
-
-**🤖 Robôs de trading**
-Expert Advisors MQL5 para MetaTrader 5 — Forex, B3 e Deriv, com gestão de risco e licenciamento.
-
-**🧠 Automações com IA**
-Integrações com modelos de linguagem para decisão, análise, atendimento e geração de conteúdo.
-
-  </td>
-  <td width="50%" valign="top">
-
-**⚙️ Back-ends & APIs**
-Python / FastAPI, banco de dados e deploy em VPS — escaláveis e prontos pra produção.
-
-**🌐 Sites & PWAs**
-Web moderna, responsiva e instalável no celular.
-
-**🛠️ Ferramentas & bots**
-Apps desktop, automações, integrações e utilitários sob medida.
-
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/areas.png" alt="Áreas de atuação" width="100%" />
+</p>
 
 > **Se dá pra imaginar em código, a gente constrói.** Descreva a ideia — do protótipo à publicação.
 

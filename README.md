@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/onde-Brasil%20%F0%9F%87%A7%F0%9F%87%B7-3DDC84?style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="assets/stats.png" alt="Estatísticas" width="100%" />
+</p>
+
 ---
 
 ## 🧰 Stack & Tecnologias
@@ -21,6 +25,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
 </p>
 
 <p align="center"><b>⚙️ Back-end & APIs</b></p>
@@ -37,21 +42,27 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p align="center"><b>📈 Trading & Mercado Financeiro</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MQL5-2E77BC?style=for-the-badge&logo=tradingview&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaTrader%205-1B7A43?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQL5-2E77BC?style=for-the-badge&logo=mql5&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaTrader%205-1B7A43?style=for-the-badge&logo=metatrader&logoColor=white" />
+  <img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
+  <img src="https://img.shields.io/badge/Profit%20Chart%20(Nelogica)-E8461E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deriv-FF444F?style=for-the-badge&logo=deriv&logoColor=white" />
 </p>
 
 <p align="center"><b>🧠 IA & Automação</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automação-000000?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
 </p>
 
 <p align="center"><b>🛠️ DevOps & Ferramentas</b></p>
@@ -60,7 +71,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VPS-5C6BC0?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS%20%2F%20Deploy-5C6BC0?style=for-the-badge&logo=serverfault&logoColor=white" />
 </p>
 
 ---

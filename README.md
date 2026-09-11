@@ -1,5 +1,6 @@
-<h1 align="center">Kinweb3_Softwares</h1>
-<p align="center"><b>Desenvolvimento de software sob medida</b><br/>Da ideia à publicação — apps, back-ends, sites, automações e robôs de trading.</p>
+<p align="center">
+  <img src="assets/banner.png" alt="Kinweb3_Softwares" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -45,15 +46,6 @@ Transformo ideias em produtos que funcionam. Do primeiro rascunho ao app publica
 ### 📌 Destaque
 
 **[Kinweb3_Downloads](https://github.com/Forextoolssoftwares/Kinweb3_Downloads)** — app Android que baixa vídeo e áudio de várias redes (YouTube, Instagram, TikTok e outros) direto no celular, com atualização automática embutida.
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Forextoolssoftwares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forextoolssoftwares&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
